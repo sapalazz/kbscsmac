@@ -5,5 +5,11 @@ It's just my personal resource to have everything in one file.
 
 VISUAL STUDIO CODE
 
-- [CTRL] + [-] --> 'navigate back'
-- [CTRL] + [Shift] + [-] --> 'navigate forward'
+- [CTRL] + [-] --> 'Navigate back'
+- [CTRL] + [Shift] + [-] --> 'Navigate forward'
+- [cmd] + [Shift] + [F] --> 'Search for files within the opened folders'
+
+TERMINAL 
+
+- 'history' to view the history of commands listed/used
+- 
