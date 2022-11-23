@@ -3,6 +3,12 @@ In this repo I aim to collect many useful shortcuts for Mac on Visual Studio Cod
 Please feel free to fork and add whatever you may find useful.
 It's just my personal resource to have everything in one file.
 
+MAC KEYBOARD
+
+Feel free to check this or transcribe: https://support.apple.com/en-us/HT201236
+
+- [ctrl] + [keyup] --> 'Show all that's currently open on the Mac'
+
 VISUAL STUDIO CODE
 
 - [CTRL] + [-] --> 'Navigate back'
