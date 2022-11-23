@@ -5,3 +5,5 @@ It's just my personal resource to have everything in one file.
 
 VISUAL STUDIO CODE
 
+- [CTRL] + [-] --> 'navigate back'
+- [CTRL] + [Shift] + [-] --> 'navigate forward'
